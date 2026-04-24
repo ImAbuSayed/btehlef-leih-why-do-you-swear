@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي قلبي معاك
+> يا غرامي روحي فداك
+> في الليل الطويل أنا أستناك
+> وشوقي ينادي يعانق هواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
