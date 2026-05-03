@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Btehlef Leih – Why Do You Swear |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/btehlef-leih-why-do-you-swear/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي قلبي معاك
+> يا غرامي روحي فداك
+> في الليل الطويل أنا أستناك
+> وشوقي ينادي يعانق هواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
