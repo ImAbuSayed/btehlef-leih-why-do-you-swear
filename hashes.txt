@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Btehlef Leih – Why Do You Swear
+
+This log tracks the cryptographic history and versioning for the song **Btehlef Leih – Why Do You Swear** (btehlef-leih-why-do-you-swear).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:17:10.813101 | `v1` | `24be6eadd3767fb0db0d4c5ef2c65d64895baa452322ed8e1567e942aae6aeb3` | `2ac588e5d0dd5776b4535b2b34c3eae5c5976b1d1780bc8c5ba466aecf5f5e6b` | `2026-05-09_btehlef-leih-why-do-you-swear-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
